@@ -16,10 +16,12 @@ I'm the founder of [Hyper Automate](https://hyperautomate.co.uk), a UK software 
 - Systems integration, data and analytics
 - Fractional CTO and advisory
 
-**Something I've built**
+**Things I've built**
 
+- [Sports Playground](https://sportsplayground.app): football data where every game gets a score out of 100, from factors you weight yourself
+- [Fantasy Data Playground](https://fantasydataplayground.app): free Fantasy Premier League help, with expected points, captain picks and a fixture ticker
 - [CourtFriends](https://courtfriends.app): club tennis and padel leagues, and finding people to play
 
-Most of my work is for clients, so it lives in private repositories.
+Sports Playground and Fantasy Data Playground are made with Digital Leverage. Most of my client work lives in private repositories.
 
 **Get in touch:** [hyperautomate.co.uk](https://hyperautomate.co.uk) · [LinkedIn](https://www.linkedin.com/in/anton-parker-398481120)
